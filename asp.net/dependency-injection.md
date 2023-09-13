@@ -20,7 +20,11 @@ public ShoppingCart(Database database)
 ```
 
 Resources:
+
 https://devopedia.org/dependency-injection#:~:text=Dependency%20Injection%20is%20considered%20a,part%20of%20SOLID%20Design%20Principles.
+
 https://www.techtarget.com/searchapparchitecture/definition/dependency-injection
+
 https://www.tutorialsteacher.com/ioc/dependency-injection
+
 https://sourcemaking.com/design_patterns
